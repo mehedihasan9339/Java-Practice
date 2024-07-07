@@ -12,6 +12,7 @@ class Dog extends Animal {
     }
 }
 
+// Main class to demonstrate inheritance
 public class InheritanceExample {
     public static void main(String[] args) {
         Dog dog = new Dog();
@@ -21,5 +22,4 @@ public class InheritanceExample {
 }
 
 
-//Inheritance allows a class to inherit fields and methods from another class.
-
+// Inheritance allows a class to inherit fields and methods from another class.
