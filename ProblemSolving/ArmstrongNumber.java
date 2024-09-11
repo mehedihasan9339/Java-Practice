@@ -25,3 +25,5 @@ public class ArmstrongNumber {
         }
     }
 }
+
+//if you have a number like 153, it's an Armstrong number because 1^3 + 5^3 + 3^3 equals 153.
